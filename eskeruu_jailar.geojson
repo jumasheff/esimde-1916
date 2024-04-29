@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "eskeruu_jailar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "desc": "Бул жерге мемориалдык комплекс куруу үчүн 1993- жылы өкмөт Орто-Сай сейил багынан 2,5 гектар жер тилкесин “Ашар” кыймылына бөлүп берген. Биро", "Nam": "Падышалык колониализмге каршы элдин 1916-жылдагы улуттук- боштондук көтөрүлүшүнө арналган эстелик." }, "geometry": { "type": "Point", "coordinates": [ 74.607754, 42.8279172, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Китепкана. Мурдагы Свято-Троицк чиркөөсү. Түп", "Nam": "Китепкана. Мурдагы Свято-Троицк чиркөөсү. Түп" }, "geometry": { "type": "Point", "coordinates": [ 78.2241604, 42.7812062, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": "Балбай Баатырдын күмбөзү" }, "geometry": { "type": "Point", "coordinates": [ 78.3206023, 42.7763301, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 78.6928177, 42.7531795, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 78.7279202, 42.7558515, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Каркыра жайлоосу", "Nam": "Каркыра жайлоосу" }, "geometry": { "type": "Point", "coordinates": [ 79.1465566, 42.7705836, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Санташ, Түп", "Nam": "Санташ, Түп" }, "geometry": { "type": "Point", "coordinates": [ 78.9945197, 42.745313, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 78.3405698, 42.7420515, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Каракол Мүслүман Көрүстөнү, Каракол", "Nam": "Каракол Мүслүман Көрүстөнү, Каракол" }, "geometry": { "type": "Point", "coordinates": [ 78.3838055, 42.5275837, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Үркүн эстелиги, Каракол", "Nam": "Үркүн эстелиги, Каракол" }, "geometry": { "type": "Point", "coordinates": [ 78.4078255, 42.4833879, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Тарыхий-этнографиялык музей, Дыйшан", "Nam": "Тарыхий-этнографиялык музей, Дыйшан" }, "geometry": { "type": "Point", "coordinates": [ 78.2993712, 42.4588462, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 78.0450063, 42.3712828, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 77.9364576, 42.2844407, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Сөөк ашуусу", "Nam": "Сөөк ашуусу" }, "geometry": { "type": "Point", "coordinates": [ 77.7604797, 41.7812725, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 77.653949, 41.9464943, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": "Туура-Суу" }, "geometry": { "type": "Point", "coordinates": [ 76.9916148, 42.0647381, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": "Тура-Суу", "Nam": "Кырк шейит" }, "geometry": { "type": "Point", "coordinates": [ 76.6085327, 42.142869, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 77.444353, 42.1655099, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 75.2293966, 42.8454724, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": "Үркүн эстелиги" }, "geometry": { "type": "Point", "coordinates": [ 75.8925773, 42.6800571, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 75.8805419, 42.4709276, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 76.1730678, 42.4567675, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 76.429112, 42.4933938, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 77.0877129, 42.6502056, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 77.4249272, 42.7069155, 0.0 ] } },
+{ "type": "Feature", "properties": { "desc": null, "Nam": null }, "geometry": { "type": "Point", "coordinates": [ 78.2400103, 42.7856536, 0.0 ] } }
+]
+}
